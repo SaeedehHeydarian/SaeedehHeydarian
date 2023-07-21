@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaeedehHeydarian
 - 👀 I’m interested in Data science 
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Machine Learning and Deep learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @heydariansaeede0@gmail.com
 
