@@ -2,11 +2,10 @@
 - 🌱 I'm currently honing my skills in data analysis, machine learning, and data visualization.
 - 👀 I love working on real-world projects that make a positive impact and help me learn something new every day.
 
-## Skills
+ ## Skills
 - Programming Languages: Python
 - Data Analysis: Pandas, NumPy
 - Data Visualization: Matplotlib, Seaborn
-- SQL Databases: MySQL
 - Tools: Jupyter Notebook
 
 ## Learning Journey
