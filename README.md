@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaeedehHeydarian
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Machine Learning and Deep learning 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Clinical data mining   
 - 📫 How to reach me @heydariansaeede0@gmail.com
 
 <!---
