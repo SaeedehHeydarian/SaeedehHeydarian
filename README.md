@@ -1,4 +1,4 @@
-- 👋 Hello! I'm Saeedeh, an enthusiastic aspiring data scientist with a passion for extracting insights from data.
+- 👋 Hello! I'm Saeedeh, a passionate learner with a keen interest in data science and its applications.
 - 🌱 I'm currently honing my skills in data analysis, machine learning, and data visualization.
 - 👀 I love working on real-world projects that make a positive impact and help me learn something new every day.
 
