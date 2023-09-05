@@ -4,7 +4,7 @@
 - [![Kaggle Profile](https://img.shields.io/badge/Kaggle-saeedeheydarian-blue?style=flat-square&logo=kaggle)](https://www.kaggle.com/saeedeheydarian)
 
 - ![image](https://www.kaggle.com/static/images/tiers/expert@192.png)
-![Kaggle Rank](https://www.kaggle.com/static/images/profile/badges/kaggle-rank.png)
+![Kaggle Rank](https://www.kaggle.com/rankings?group=notebooks)
 
 
 
