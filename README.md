@@ -2,9 +2,7 @@
 - 🌱 I'm currently honing my skills in data analysis, machine learning, and data visualization.
 - 👀 I love working on real-world projects that make a positive impact and help me learn something new every day.
 - [![Kaggle Profile](https://img.shields.io/badge/Kaggle-saeedeheydarian-blue?style=flat-square&logo=kaggle)](https://www.kaggle.com/saeedeheydarian)
-
-![Kaggle Rank](https://www.kaggle.com/static/images/tiers/expert@192.png)
-![Kaggle Rank](https://www.kaggle.com/rankings?group=notebooks)
+![Kaggle Rank](https://www.kaggle.com/static/images/tiers/expert@48.png)
 
  ## Skills
 - Programming Languages: Python
